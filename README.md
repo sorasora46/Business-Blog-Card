@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://sorasora46.github.io/Business-Blog-Card/">
       Demo
     </a>
     <span> | </span>
@@ -36,7 +36,8 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+<img width="1904" height="965" alt="image" src="https://github.com/user-attachments/assets/c7d69ae8-2dd0-4277-8daa-1a51c683b28a" />
+
 
 <!--
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
